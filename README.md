@@ -27,4 +27,3 @@ para arquiteturas complexas e eficientes.
 - **WhatsApp:** [Iniciar Conversa](https://wa.me/5561992229559)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhamiltonsr-pixel&show_icons=true&theme=transparent&title_color=0070f3&text_color=0070f3&icon_color=0070f3&border_color=0070f3&border_radius=0)
