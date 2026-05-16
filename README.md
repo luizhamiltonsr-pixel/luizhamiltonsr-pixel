@@ -6,7 +6,7 @@
 
 ---
 
-### 🟣 TECH STACK (PRIMARY)
+### 🟣 TECH STACK (PRIMARY) 
 - **High-Level:** Python (Scripts, Data, Automation)
 - **Low-Level:** C++ (Algorithms, Systems, Performance)
 - **Environment:** Linux, Git/GitHub, Gemini AI Integration
